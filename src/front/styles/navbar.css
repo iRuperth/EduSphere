@@ -1,0 +1,32 @@
+/* navbar.css */
+
+
+@media (max-width: 576px) {
+    .navbar-brand  {
+        max-width: 80px;
+    }
+
+    .navbar .btn {
+        max-width: 80px;
+    }
+}
+
+@media (min-width: 577px) and (max-width: 768px) {
+    .navbar-brand  {
+        max-width: 100px;
+    }
+
+    .navbar .btn {
+        max-width: 100px;
+    }
+}
+
+@media (min-width: 769px) {
+    .navbar-brand  {
+        max-width: 100px;
+    }
+
+    .navbar .btn {
+        max-width: 100px;
+    }
+}
