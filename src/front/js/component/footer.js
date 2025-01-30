@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import logo from "../../img/logo_acciona.png"
+import logo from "../../img/planeta_logo.webp"
 
 export const Footer = () => (
 
